@@ -21,7 +21,6 @@ document.addEventListener('DOMContentLoaded', () => {
             pin: true,
             start: 'top top',
             end: `+=${window.innerHeight*2}`,
-            markers:true,
             scrub: 0.3,
         }
     })
